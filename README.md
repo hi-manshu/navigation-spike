@@ -16,3 +16,7 @@ Modules:
 #### Feature modules
 - It has a dummy composable with ViewModels injected via Hilt
 - ViewModels are responsible for handling the navigation based on the `Destination routes`
+
+
+Inspiration:
+https://medium.com/google-developer-experts/modular-navigation-with-jetpack-compose-fda9f6b2bef7
